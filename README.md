@@ -3,7 +3,7 @@
 # Responsive UI-Pixi.js
 * Created in 𝗣𝗶𝘅𝗶.𝗷𝘀 7.3
 
-Code Private
+/Code Private/
 
 
 𝐕𝐢𝐝𝐞𝐨
